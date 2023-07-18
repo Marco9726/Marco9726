@@ -1,9 +1,7 @@
+![Banner Image](./img/lndn-new.png?raw=true)
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A junior full-stack web developer</h3>
 
-<!-- <img src="./img/lndn-new.png" width="100%"> -->
-
-![Banner Image](./img/lndn-new.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marco9726&label=Profile%20views&color=0e75b6&style=flat" alt="marco9726" /> </p>
 
